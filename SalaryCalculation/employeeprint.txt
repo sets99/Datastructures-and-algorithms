@@ -1,0 +1,39 @@
+Employee Name: Destro, Weekly Pay: 23076.0
+Employee Name: Baroness, Weekly Pay: 17307.0
+Employee Name: Greg, Weekly Pay: 2903.0
+Employee Name: Marcia, Weekly Pay: 3078.0
+Employee Name: Peter, Weekly Pay: 3057.0
+Employee Name: Jan, Weekly Pay: 1538.0
+Employee Name: Dommik Zorander, Weekly Pay: 2903.0
+Employee Name: Larsa Moonfall, Weekly Pay: 2694.0
+Employee Name: Karn Redwood, Weekly Pay: 3192.0
+Employee Name: Reyson Everbleed, Weekly Pay: 1634.0
+Employee Name: Larry , Weekly Pay: 605.0
+Employee Name: Curly, Weekly Pay: 420.0
+Employee Name: Moe, Weekly Pay: 730.0
+Employee Name: Marvin the Martian, Weekly Pay: 396.0
+Employee Name: Hawk, Weekly Pay: 216.0
+Employee Name: Torpedo, Weekly Pay: 880.0
+Employee Name: Scarlett, Weekly Pay: 555.0
+Employee Name: Scoop, Weekly Pay: 300.0
+Employee Name: Loom Le Torneau, Weekly Pay: 580.0
+Employee Name: Morren Manglyeong, Weekly Pay: 144.0
+Employee Name: Colton Latimer, Weekly Pay: 880.0
+Employee Name: Theodor Serphent, Weekly Pay: 408.0
+Employee Name: Storm Shackleton, Weekly Pay: 84.0
+Employee Name: Amarant Sephiran, Weekly Pay: 605.0
+Employee Name: Thyme Graves, Weekly Pay: 1680.0
+Employee Name: Thunder Barclay, Weekly Pay: 408.0
+Employee Name: Morren Victor, Weekly Pay: 276.0
+Employee Name: Stryker Moriarty, Weekly Pay: 408.0
+Employee Name: Aswang Christanti, Weekly Pay: 480.0
+Employee Name: Grimina Maganti, Weekly Pay: 480.0
+Employee Name: Nylora Redwood, Weekly Pay: 480.0
+Employee Name: Hazelmere Vigil, Weekly Pay: 264.0
+Employee Name: Autumn Keeling, Weekly Pay: 168.0
+Employee Name: Athena Interfector, Weekly Pay: 1105.0
+Employee Name: Yureka Zul, Weekly Pay: 605.0
+Employee Name: Karmin Shackleton, Weekly Pay: 505.0
+Employee Name: Viessa Aura, Weekly Pay: 48.0
+Employee Name: Qutie Whitmore, Weekly Pay: 264.0
+Total Payroll: 75356
