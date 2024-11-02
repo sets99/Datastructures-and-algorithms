@@ -1,0 +1,42 @@
+Lab Instructions: Implementing a MinHeap Interface
+Objective
+Your task is to implement the MinHeapInterface in Java and ensure that your implementation passes all tests provided in the HeapTest class. You will also need to include a comparator instance variable in your implementation.
+
+Files Provided
+MinHeapInterface.java: The interface you need to implement.
+HeapTest.java: Unit tests to validate your MinHeap implementation.
+Main.java, LetterGrade.java, and Student.java: Additional files that may assist in testing or understanding the context of this assignment.
+Steps
+Understand the MinHeapInterface
+
+Open MinHeapInterface.java and review the methods you need to implement.
+Note any specific requirements or methods that need to handle elements in a certain order.
+Create the MinHeap Class
+
+In a new file named MinHeap.java, create a class that implements MinHeapInterface.
+Include a private instance variable for the comparator that will help maintain the heap order.
+Add the Comparator
+
+Add the following line as a private instance variable to your MinHeap class:
+private Comparator<Element> comparator
+
+This comparator will help compare elements in your heap by using the compareTo method.
+Implement the Required Methods
+
+Implement all methods defined in MinHeapInterface.
+Ensure that the comparator is used in methods that need to maintain the order of the elements in the heap.
+Run the Unit Test
+
+Use HeapTest.java to test your implementation.
+Run the test by executing HeapTest to check if your implementation passes all tests.
+Debug and revise your code if any tests fail, ensuring that your heap maintains the correct min-heap properties.
+
+After passing all tests, reflect on the following:
+How does the comparator help in maintaining the heap order?
+What challenges did you face while implementing the heap, and how did you overcome them?
+
+SubmissionZip and submit project implementation. Ensure that your code passes all tests in HeapTest.java.
+
+Additional Notes
+Make sure to use the comparator effectively to simplify comparisons between elements.
+If needed, refer to LetterGrade.java and Student.java to understand any custom classes that might interact with your heap.
