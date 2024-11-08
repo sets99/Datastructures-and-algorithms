@@ -1,0 +1,49 @@
+For this lab you will complete the MyTrie class
+
+Create the MyTrie class by implementing the Trie interface
+
+use this node:
+
+@SuppressWarnings("unused")
+	private class TrieNode
+	{
+		private boolean validString;
+		private TrieNode parent;
+		private int currentIndex = 0;
+		private TrieNode nodes[] = new TrieNode[26];
+				
+		public TrieNode(boolean validString, TrieNode parent)
+		{
+
+		}
+		
+		public boolean isValidString() {
+			return validString;
+		}
+
+		public TrieNode getParent() {
+			return parent;
+		}
+
+		public int getCurrentIndex() {
+			return currentIndex;
+		}
+
+	};
+
+
+
+
+Then pass the basic unit tests
+Using the common words file implement an Autocomplete system 
+
+It should look like this:
+
+Type a prefix to get autocomplete suggestions (type 'exit' to quit):
+Prefix: app
+Suggestions: [app, apple, application]
+Prefix: ba
+Suggestions: [banana, band, bat, battle]
+Prefix: exit
+ 
+ 
